@@ -1,7 +1,7 @@
-module.exports.TaylorArcsin = TaylorArcsin;
+module.exports.TaylorArcsinA = TaylorArcsinA;
 
 
-function TaylorArcsin(x,n) {
+function TaylorArcsinA(x,n) {
     let sum = x, e = 2, o = 1, p = 1;
     for (let i = 2; i <= n; i++) {
 
