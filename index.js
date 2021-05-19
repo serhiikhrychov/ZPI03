@@ -1,7 +1,6 @@
 const Calc = require('./calc');
 
-console.log("Taylor series calculator welcomes you");
+console.log("Taylor series calculator welcomes you, lets find arcsin(x)");
 
-let t = Calc.Taylor(1);
-
-console.log(t);
+let result = Calc.TaylorArcsin(0.5, 3);
+console.log(result);
