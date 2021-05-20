@@ -1,4 +1,4 @@
-module.exports.TaylorArcsinA = TaylorArcsinA;
+module.exports.TaylorArcsin = TaylorArcsin;
 
 
 function TaylorArcsin(x,n) {
