@@ -1,6 +1,6 @@
 const Calc = require('./calc');
 
-console.log("Taylor series calculator welcomes you, lets find arcsin(x)");
+console.log("Taylor series calculator welcomes you, lets find arcsin(x) ");
 
 let members = 3;
 
